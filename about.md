@@ -3,36 +3,88 @@ layout: page
 title: About
 ---
 
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
+I can distinctly remember the cloudy February day when I first read Faustino
+Ballvé's *Essentials of Economics*. I had been brought up with a working
+understanding of economics, but Ballvé's book made the discipline click with me
+even more than the summer-term microeconomics course I had taken at Cornell a
+couple years before. It's an easy book, one which an interested layman can read
+in a weekend, and which will benefit her for the rest of her life. Divided into
+ten lessons on everything from Capital, Labor, and Wages to What Economics is
+*Not* About, *Essentials of Economics* is the perfect primer on the Austrian
+school of pure economics. The Austrian school is built on the idea that
+economics should be a discipline distinct from history and statistics---focusing
+instead on the laws which govern human action and the inescapable consequences
+of that action. While unorthodox in the modern age, this approach to studying
+the world makes economics a discipline not just for the professional or
+academic, but for every citizen to understand.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle! 
+While it is technically out-of-print, I believe that physical editions of this
+text are still being distributed by the
+[Ludwig von Mises Institute](https://mises.org/library/essentials-economics),
+which also distributes this book in a proper ebook format. Working
+independently, I have put together this digital edition to help revive interest
+in this forgotten classic, and to provide a helpful resource on the essentials
+of economics in an easily-accessible form for all people---in the spirit of
+Ballvé's original work.
 
+Below I have reconstructed a biography of the author as best I can from the
+various sources I could conjure up from the depths of the web, both in English
+and Catalan. Though sadly very little about him is now known, Faustino Ballvé
+remains one of the most interesting intellectual figures I am aware of.
 
-## Sample Ed editions.
+---
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
+At various times a lawyer, politician, refugee, and professor, Faustino Ballvé
+Pallisé lived a life unparalleled by any in his field. He was born in 1887 in
+Barcelona, and would play an integral part in shaping the politics of his native
+Catalonia up through the end of the Spanish Civil War. He studied law at the
+University of Barcelona, earned his doctorate at the University of Madrid, and
+then went on to study in Berlin and London, where he began to specialize in the
+field of economics. When he returned, he worked as a lawyer at the German
+consulate in Barcelona.
 
+Politics was a keen interest in Ballvé’s life, who had been the editor of a
+republican paper as a young adult. In 1925, he helped found a Catalan republican
+party which would later join with the Radical Socialists to become the Catalan
+wing of Manuel Azaña’s Republican Left in 1935. Acting as a leader of the
+Catalan Republican Left and as a member of the Spanish Court of Deputies
+representing Barcelona City, Ballvé was a key player in Spanish politics at the
+onset of the Civil War in 1936. But when Azaña’s Republicans lost the war and
+the Nationalists came to power, he fled the country. He went first to France,
+the destination of many of his fellow political refugees, and finally arrived in
+Mexico in 1942 aboard the refugee ship Nyassa. In addition to his legal practice
+in Mexico City, Ballvé took on two professorships—one in economics at the Mexico
+Institute of Technology, and the other in law at the National Autonomous
+University of Mexico. He died in 1958.
 
+<p align="center">
+<img alt="A young Faustino Ballvé, courtesy of Wikimedia Commons" src="/assets/ballve.jpg" title="A young Faustino Ballvé, courtesy of Wikimedia Commons" />
+</p>
 
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
+It is perhaps most remarkable that a man who spent his forties fighting
+alongside socialists and anarchists against fascist counter-revolutionaries in
+Spain would become known in Europe and America as an exponent of free market
+economics. Yet such was the rich depth of Ballvé’s life and work. In 1942,
+Austrian economist Ludwig von Mises visited Mexico City to deliver a series of
+lectures on the economic problems which faced the country. Ballvé’s acquaintance
+with Mises during that time led to a long-lasting correspondence and friendship
+between the two scholars. In 1956, Ballvé published the book that would become
+his legacy—*Diez lecciones de economía*, which we know in the United States as
+*Essentials of Economics*.
 
+<p align="center">
+<img alt="An old Faustino Ballvé, courtesy of the Foundation for Economic Education" src="/assets/ballve2.jpg" title="An old Faustino Ballvé, courtesy of the Foundation for Economic Education" />
+</p>
 
-## Installing and using Ed
+A comprehensive survey of economic history, theory, and application in only one
+hundred pages, Ballvé’s book became an instant hit. Within a year it had been
+translated into French by Raoul Audouin, with numerous emendations and
+expansions which were approved of by Ballvé himself. In America, Arthur
+Goddard’s English translation (which made use of many of the French additions)
+was funded by Harold W. Luhnow and the William Volker Fund, and was promoted by
+Leonard Reed and the Foundation for Economic Education. Although largely
+forgotten today, Ballvé’s work remains a remarkably relevant and accessible
+primer on economics which all would do well to read, and a testament to the
+similarly remarkable life and times of its unusual author.
 
-To learn how to install and begin using Ed, please visit our [documentation page](http://minicomp.github.io/ed/documentation/).
+--- Jack VanDrunen, 8 Feb. 2018

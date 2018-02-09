@@ -1,17 +1,16 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               Essentials of Economics
+tagline:             'A Brief Survey of Principles and Policies'
+description:         "Essentials of Economics is an accessible survey of economic history, theory, and application in only one hundred pages. It was written by the Mexican polymath Faustino Ballvé in 1956, translated in 1963 by Arthur Goddard with support from the William Volker Fund and the Foundation for Economic Education, and is now in a fresh digital edition from publicly available source texts courtesy of Jack VanDrunen."
+url:                 'https://ballve.org'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Jack VanDrunen
+  url:               'https://jackv.co/'
 
 # Permalinks
 
