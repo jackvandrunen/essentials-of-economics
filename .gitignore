@@ -49,3 +49,5 @@ bower_components
 .sass-cache
 .jekyll-metadata
 Gemfile.lock
+
+essentials.md

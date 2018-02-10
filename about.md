@@ -87,4 +87,4 @@ forgotten today, Ballvé’s work remains a remarkably relevant and accessible
 primer on economics which all would do well to read, and a testament to the
 similarly remarkable life and times of its unusual author.
 
---- Jack VanDrunen, 8 Feb. 2018
+Jack VanDrunen
