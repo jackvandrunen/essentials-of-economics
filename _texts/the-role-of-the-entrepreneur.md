@@ -134,6 +134,8 @@ and also on the basis of the teachings of economic experience that are
 comprehended under the rubric of *economic geography, economic history*,
 and *statistics*.
 
+---
+
 Within this body of knowledge needed by the entrepreneur in order to
 exercise his power of choice in launching and managing his enterprise
 are included what are commonly called economic laws. Among the latter
@@ -242,6 +244,8 @@ appearances, by the example of other countries or other times, etc.,
 then he runs the risk of obtaining, instead of a greater, a lesser
 return on his investment, to his own detriment and that of the market.
 
+---
+
 Among the problems of economic calculation confronting the entrepreneur,
 that of time stands in the forefront. Indeed, one might go so far as to
 say that entrepreneurial activity consists essentially in *the struggle
@@ -279,6 +283,8 @@ the course of time. This will tell him how far he can or ought to *risk*
 the available capital, how rapidly he has to amortize fixed investments,
 and many other things determining the volume and character of his
 business.
+
+---
 
 It is easy to understand, then, that none of these many calculations,
 which in their totality constitute economic calculation, can be exact:

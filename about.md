@@ -6,20 +6,19 @@ title: About
 I can distinctly remember the cloudy February day when I first read Faustino
 Ballvé's *Essentials of Economics*. I had been brought up with a working
 understanding of economics, but Ballvé's book made the discipline click with me
-even more than the summer-term microeconomics course I had taken at Cornell a
-couple years before. It's an easy book, one which an interested layman can read
-in a weekend, and which will benefit her for the rest of her life. Divided into
-ten lessons on everything from Capital, Labor, and Wages to What Economics is
-*Not* About, *Essentials of Economics* is the perfect primer on the Austrian
-school of pure economics. The Austrian school is built on the idea that
-economics should be a discipline distinct from history and statistics---focusing
-instead on the laws which govern human action and the inescapable consequences
-of that action. While unorthodox in the modern age, this approach to studying
-the world makes economics a discipline not just for the professional or
-academic, but for every citizen to understand.
+even more than a college microeconomics course had. It's an easy book, one
+which an interested layman can read in a weekend, and which will benefit her
+for the rest of her life. Divided into ten lessons on everything from The Market
+to What Economics is *Not* About, *Essentials of Economics* is the perfect
+primer on the Austrian school of pure economics. The Austrian school is built on
+the idea that economics should be a discipline distinct from history and
+statistics---focusing instead on the laws which govern human action and the
+inescapable consequences of that action. While unorthodox in the modern age,
+this approach to studying the world makes economics a discipline not just for
+the professional and the academic, but for every citizen to understand.
 
-While it is technically out-of-print, I believe that physical editions of this
-text are still being distributed by the
+While it is technically out-of-print, physical editions of this text are still
+being distributed by the
 [Ludwig von Mises Institute](https://mises.org/library/essentials-economics),
 which also distributes this book in a proper ebook format. Working
 independently, I have put together this digital edition to help revive interest
@@ -28,6 +27,7 @@ of economics in an easily-accessible form for all people---in the spirit of
 Ballvé's original work.
 
 Below I have reconstructed a biography of the author as best I can from the
+prefatory material to this book, as well as from
 various sources I could conjure up from the depths of the web, both in English
 and Catalan. Though sadly very little about him is now known, Faustino Ballvé
 remains one of the most interesting intellectual figures I am aware of.

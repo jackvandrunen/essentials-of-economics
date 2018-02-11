@@ -101,6 +101,8 @@ The capitalist runs the risk involved in the enterprise; he can make a
 profit or suffer losses. *Profit is justified, then, by the risk
 incurred*.
 
+---
+
 The other factor of production is *labor*. This is a disutility that one
 takes upon oneself in exchange for a utility, viz., wages. "Cursed is
 the ground for thy sake; in sorrow shalt thou eat of it all the days of
@@ -147,6 +149,8 @@ him down and seek some other, less expensive technician; if they offer
 him too little, it is he who goes in search of
 other capitalists. His situation in this respect is no different from
 that of any day laborer.
+
+---
 
 In the spirit of the classical school, an attempt has been made to find
 objective laws that would determine wages independently of the will of
@@ -212,6 +216,8 @@ wages. But the cost of supporting a worker is always less than what his
 labor produces. This difference is the *surplus value* which the
 entrepreneur retains, thereby depriving the worker of *the full proceeds
 of his labor*.
+
+---
 
 In criticism of these doctrines, the first point to be noted is that
 they are not scientific explanations of the way in which the

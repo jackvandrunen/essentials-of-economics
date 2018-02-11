@@ -224,6 +224,8 @@ policy of economic nationalism is to make the countries that adopt it,
 not richer, but poorer, because it inhibits economic activity and raises
 prices.
 
+---
+
 Another enemy of the world-wide free market is *socialism*. The labor
 movement[^fn2] began and
 developed under the banner of socialism, however many may have been the
@@ -421,6 +423,8 @@ to form unions and to go on strike would be suppressed, and the worker
 would become a slave. This is what is happening in Russia today, where
 the worker cannot choose even his place of employment, and every effort
 on his part to improve his condition is punished as high treason.
+
+---
 
 A very peculiar variety of socialism is *agrarian socialism*, known also
 as Georgism and as the agrarian reform

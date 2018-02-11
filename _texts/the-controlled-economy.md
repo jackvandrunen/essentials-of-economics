@@ -194,6 +194,8 @@ the market is deprived of its product, and the workers engaged in its
 production, finding themselves unemployed, enter the competition for
 jobs in other industries, whose wage rates they thereby depress.
 
+---
+
 General monetary controls will not concern us here. But there is a
 special type of monetary control---*foreign-exchange control*---that,
 for all practical purposes, is nothing but a particular method of
@@ -268,6 +270,8 @@ greater mobility of goods and labor or even an increase in international
 trade. On the contrary, such state intervention is unnecessary, costly,
 arbitrarily discriminatory, and extremely detrimental to individual
 liberty.
+
+---
 
 From this brief exposition of the principles underlying the controlled
 economy two conclusions clearly emerge: (1) They in no way succeed in

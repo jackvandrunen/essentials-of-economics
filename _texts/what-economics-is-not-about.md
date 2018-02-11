@@ -112,6 +112,8 @@ terms; its domain is rather that of imagination and invention, of
 adventure into the unknown, of a hazardous enterprise that is not for
 the cowardly.
 
+---
+
 Hence, it is no less necessary to banish from economics the classical
 myth of the *homo economicus*. Man is, to be sure, an egoistic being;
 such is his earthly lot, for no other mode of
@@ -157,6 +159,8 @@ adventure. The retirement of an entrepreneur
 of genial disposition can bring fortune or misfortune to many other
 entrepreneurs, just as the indifference of a truth-seeker to monetary
 considerations can, at a given moment, make both him and others wealthy.
+
+---
 
 There are many other things which one finds in treatises on economics,
 but which likewise have nothing to do with the subject. In many of them

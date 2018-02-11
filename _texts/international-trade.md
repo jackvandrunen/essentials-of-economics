@@ -180,6 +180,8 @@ obligations on the contracting parties. The result is that transactions
 of this kind, apparently the most difficult and perilous, never give
 rise to insoluble conflicts.
 
+---
+
 In order to meet the monetary needs of international trade, a
 *foreign-exchange* market developed. In the early days of international
 trade, buyers resorted to money-changers to obtain the foreign money
@@ -218,6 +220,8 @@ reasons, fluctuations also took place not only in the premiums charged
 for instruments of payment in the money market, but also in the rate of
 foreign exchange itself, and the law of supply and demand always
 resulted in the rate of exchange most acceptable to all concerned.
+
+---
 
 This is what we could characterize as the normal state of commercial
 intercourse between nations, and this too is the

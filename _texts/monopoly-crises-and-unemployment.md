@@ -119,6 +119,8 @@ less than official corruption. *But it is impossible to find a single
 example of a monopoly that has ever existed without official
 protection*.
 
+---
+
 The term "crisis" denotes a maladjustment in economic life that gives
 rise to a general depression, but one not caused by external
 circumstances like natural catastrophes, epidemics, wars, or
@@ -271,6 +273,8 @@ any place in an economy of free enterprise. They are not essential
 elements or necessary effects of it; neither are they defects in it.
 They are, on the contrary, the *consequences of political interference
 with the free-market economy*.
+
+---
 
 As we shall see, the same holds true for unemployment.
 

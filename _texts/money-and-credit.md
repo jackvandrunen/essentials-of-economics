@@ -96,6 +96,8 @@ This, briefly, has been the sad history of money---a history that has
 not been lacking in miracle-workers who profess to see in it happy
 auguries full of promise.
 
+---
+
 Let us now turn our attention to the *theories of money*. These, in the
 order in which they have appeared historically, can be reduced to three:
 the *quantity* theory, the *qualitative* theory, and the theory of the
@@ -186,6 +188,8 @@ the qualitative theory holds. And, as the quantity theory recognizes,
 the purchasing power of money stands in a more or less mathematical
 relation to the supply of and the demand for goods on the market.
 
+---
+
 This brings us to the concept of the *money market*, about which there
 likewise prevails a good deal of confusion. People speak of money as
 abundant or scarce, as cheap or dear, without making any distinction
@@ -266,6 +270,8 @@ ready to pay a high rate of interest; others of an institutional nature,
 like the intervention of the government's central bank, which
 rediscounts the credit operations of private banks at a rate that to
 some extent affects their own discount rate.
+
+---
 
 All this refers to money loaned on credit, i.e., money considered as an
 auxiliary means of production and made available in what is
