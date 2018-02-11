@@ -35,7 +35,7 @@ remains one of the most interesting intellectual figures I am aware of.
 ---
 
 At various times a lawyer, politician, refugee, and professor, Faustino Ballvé
-Pallisé lived a life unparalleled by any in his field. He was born in 1887 in
+Pallicer lived a life unparalleled by any in his field. He was born in 1887 in
 Barcelona, and would play an integral part in shaping the politics of his native
 Catalonia up through the end of the Spanish Civil War. He studied law at the
 University of Barcelona, earned his doctorate at the University of Madrid, and
